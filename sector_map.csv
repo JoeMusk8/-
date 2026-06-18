@@ -1,0 +1,11 @@
+ticker,sector,sector_etf
+MU,Memory,SMH
+SNDK,Memory,SMH
+NVDA,AI_Architecture,SMH
+AVGO,AI_Architecture,SMH
+TSM,AI_Architecture,SMH
+COHR,Optical_CPO,SMH
+LITE,Optical_CPO,SMH
+ETN,Power_Cooling,XLI
+VRT,Power_Cooling,XLI
+TSLA,Other,QQQ

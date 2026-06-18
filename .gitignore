@@ -1,0 +1,12 @@
+.venv/
+**pycache**/
+cache/
+outputs/
+.DS_Store
+*.pyc
+backups/
+src/
+tests/
+index.html
+package.json
+styles.css
